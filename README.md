@@ -161,7 +161,7 @@ Follow the Wiki for more information
 
 1. Press the A frame on the drone and secure with 6mm screws.
 - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/05808535-7d0e-41a4-b893-54553bd9d2f1)
-
+- The A frame will bend around the FC stack, this is normal and allows for a secure fit.
 
 
 
