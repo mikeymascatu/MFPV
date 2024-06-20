@@ -101,17 +101,17 @@ STLs will be on model sharing sites:
 *I recommend measuring, cutting, and soldering all wires before hand as soldering next to plastics might not be a good idea. Remove all non-soldered connectors before starting.* 
 
 ### Standoff Installation
-Insert X6 6mm M3 Screws through the sides of the B frame
-Use 12mm M3 Screws if using the “Blade” landing gear
-If using the Landing gear, Sandwich the gear bracket like: 
-Screws, Bracket, B frame, and Standoffs
-Catch the end of the screw using the 25mm Standoffs
-Insert X4 6mm M3 Screws through the “smaller square section” (Labeled VTX)
-Catch the screws using X4 12mm M3 Standoffs
-Install Modular Connector
-Run battery straps through the side slots on the A frame.
-FC/ESC Installation
-Ensure rubber spacers are installed on both ends of the stack 
+ 1. Insert X6 6mm M3 Screws through the sides of the B frame
+ 2. Use 12mm M3 Screws if using the “Blade” landing gear
+ 3. If using the Landing gear, Sandwich the gear bracket like: 
+     - Screws, Bracket, B frame, and Standoffs
+ 4. Catch the end of the screw using the 25mm Standoffs
+ 5. Insert X4 6mm M3 Screws through the “smaller square section”
+ 6. Catch the screws using X4 12mm M3 Standoffs
+ 7. Install Modular Connector
+ 8. Run battery straps through the side slots on the A frame.
+### FC/ESC Installation
+  Ensure rubber spacers are installed on both ends of the stack 
 Insert X4 30mm M3 Screws through the “Center square holes”
 Catch the screws using the stack. There may be some resistance, this is normal.
 Secure the board using the nuts or 12mm standoffs 
