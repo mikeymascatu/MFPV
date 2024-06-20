@@ -159,10 +159,13 @@ Follow the Wiki for more information
 
 ### Final Frame Assembly
 
-1. Press the A frame on the drone and secure with 6mm screws.
+1. Route the XT60 cable through the large hole of the A frame
+   - ![Screenshot 2024-06-20 120815](https://github.com/mikeymascatu/MFPV/assets/166886630/cd05ce85-0651-4e7d-a24d-f02defc8fea9)
+2. Press the A frame on the drone.
 - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/05808535-7d0e-41a4-b893-54553bd9d2f1)
 - The A frame will bend around the FC stack, this is normal and allows for a secure fit.
-
-
-
+3. Secure the A frame with 6mm screws.
+4. Secure the battery with battery straps
+5. Connect all cables (other than XT60) if not already
+6. Plug into BetaFlight and Configure
    
