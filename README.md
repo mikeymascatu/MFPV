@@ -95,7 +95,7 @@ STLs will be on model sharing sites:
 ### Additional Frame Components
 - Prop Guards (bumperv3) = X4
 ### Landing System
-
+- Landing blades
 
 ## Assembly:
 *I recommend measuring, cutting, and soldering all wires before hand as soldering next to plastics might not be a good idea. Remove all non-soldered connectors before starting.* 
@@ -106,6 +106,7 @@ STLs will be on model sharing sites:
  3. If using the Landing gear, Sandwich the gear bracket like: 
      - Screws, Bracket, B frame, and Standoffs
  4. Catch the end of the screw using the 25mm Standoffs
+     - Like so: ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/05808535-7d0e-41a4-b893-54553bd9d2f1)
  5. Insert X4 6mm M3 Screws through the “smaller square section”
  6. Catch the screws using X4 12mm M3 Standoffs
  7. Install Modular Connector
