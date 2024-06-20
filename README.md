@@ -9,7 +9,7 @@
 STLs will be included with options to model sharing sites:
 
 
-[OnShape][https://cad.onshape.com/documents/be780221657184ef5af6f876/w/e20a2d3bc301348a674d5dc5/e/4542c18d6307ccf997ffdbc9?renderMode=0&uiState=667372c694107d685f381607]
+[OnShape](https://cad.onshape.com/documents/be780221657184ef5af6f876/w/e20a2d3bc301348a674d5dc5/e/4542c18d6307ccf997ffdbc9?renderMode=0&uiState=667372c694107d685f381607)
 
 ## Features and Specs:
  - Fully 3D-printed (other than hardware) 
@@ -40,10 +40,13 @@ STLs will be included with options to model sharing sites:
  - Fits battery straps 
    * (Designed around 4S Li-Ion packs but will fit most small-medium Li-Po packs) 
 ## Warnings/Notes/Printing
- - ### FOR US MAKERS:
- - This design is VERY LIKELY over the FAA's <249g “no registration” limit so using the FAA's “Remote ID” is likely needed. (For what I'm doing, I don't need a module so I won't have brackets on my page, but it's super easy to make brackets in CAD)
-This design makes a drone roughly ~700g so please check your local UAV guidelines before proceeding 
-It is 3D printed plastic at the end of the day so it won't take that many crashes.
+
+### FOR US MAKERS:
+ - This design is ** VERY LIKELY **  over the FAA's <249g “no registration” limit so using the FAA's “Remote ID” is likely needed.
+   *  (For what I'm doing, I don't need a module so I won't have brackets on my page, but it's super easy to make brackets in CAD)
+ - This design makes a drone roughly ~700g so please check your local UAV guidelines before proceeding 
+
+### ** It is 3D printed plastic at the end of the day so it won't take that many crashes. **
 
 It certainly isn't THAT light so I wouldn't recommend racing or freestyling.
 YOU MUST USE AN ADVANCED FILAMENT FOR THE B FRAME. PLA causes MANY ISSUES WITH FLIGHT. Currently testing ABS-CF but PA-CF or PC may be better options. You can use PLA on the other components though.
