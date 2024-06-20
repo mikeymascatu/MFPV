@@ -1,5 +1,5 @@
-# MFPV-delivery (Modular First Person View Drone Delivery System)
-## Modular Open-Source 3D-Printed Frame System for FPV-based (4"-5") delivery drones
+# MFPV (Modular First Person View Drone System)
+## Modular Open-Source 3D-Printed Frame System for FPV-based (4"-5") drones
 
 
 
