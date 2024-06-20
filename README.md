@@ -102,23 +102,27 @@ STLs will be on model sharing sites:
 
 ### Standoff Installation
  1. Insert X6 6mm M3 Screws through the sides of the B frame
- 2. Use 12mm M3 Screws if using the “Blade” landing gear
- 3. If using the Landing gear, Sandwich the gear bracket like: 
+    - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/41824df2-cdad-49c6-9479-4471d4c323a3)
+ 3. Use 12mm M3 Screws if using the “Blade” landing gear
+     - Build the Landing Gear System using the wiki before installing
+ 5. If using the Landing gear, Sandwich the gear bracket like: 
      - Screws, Bracket, B frame, and Standoffs
- 4. Catch the end of the screw using the 25mm Standoffs
-     - Like so: ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/05808535-7d0e-41a4-b893-54553bd9d2f1)
- 5. Insert X4 6mm M3 Screws through the “smaller square section”
- 6. Catch the screws using X4 12mm M3 Standoffs
- 7. Install Modular Connector
- 8. Run battery straps through the side slots on the A frame.
+ 6. Catch the end of the screw using the 25mm Standoffs
+     - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/05808535-7d0e-41a4-b893-54553bd9d2f1)
+ 7. Insert X4 6mm M3 Screws through the “smaller square section”
+     - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/fb3fbb42-0b28-48e3-aaa0-a01b3f9f30b3)
+ 9. Catch the screws using X4 12mm M3 Standoffs
+ 10. Install Modular Connector
+      - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/01982acb-d9ea-4604-aea2-32ab8f33383e)
+ 11. Run battery straps through the side slots on the A frame.
 ### FC/ESC Installation
-  Ensure rubber spacers are installed on both ends of the stack 
+Ensure rubber spacers are installed on both ends of the stack 
 Insert X4 30mm M3 Screws through the “Center square holes”
 Catch the screws using the stack. There may be some resistance, this is normal.
 Secure the board using the nuts or 12mm standoffs 
 The screws should be flush with the 
 Install your custom camera brackets on the standoffs
-Motor Installation
+### Motor Installation
 Align each direction motor with each arm
 Insert X4 10mm screws per motor (16 in total)
 If using the MFPV Guards, Sandwich the guards like so:
