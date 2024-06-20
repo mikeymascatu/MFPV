@@ -1,4 +1,4 @@
-# MFPV-delivery (Modular First Person View Drone
+# MFPV-delivery (Modular First Person View Drone Delivery System)
 ## Modular Open-Source 3D-Printed Frame System for FPV-based (4"-5") delivery drones
 
 ![image](https://github.com/mikeymascatu/MFPV-delivery/assets/166886630/6c68a1ef-2568-4084-9870-977f66e36d11)
@@ -9,7 +9,7 @@
 STLs will be included with options to model sharing sites:
 
 
-(OnShape)[https://cad.onshape.com/documents/be780221657184ef5af6f876/w/e20a2d3bc301348a674d5dc5/e/4542c18d6307ccf997ffdbc9?renderMode=0&uiState=667372c694107d685f381607]
+[OnShape][https://cad.onshape.com/documents/be780221657184ef5af6f876/w/e20a2d3bc301348a674d5dc5/e/4542c18d6307ccf997ffdbc9?renderMode=0&uiState=667372c694107d685f381607]
 
 ## Features and Specs:
  - Fully 3D-printed (other than hardware) 
@@ -28,9 +28,9 @@ STLs will be included with options to model sharing sites:
  - No post processing (assuming your printer has no issues)
  - STL and STEP files for printing and design changes.
 ## Compatible Parts 
-Fits 30.5mm x 30.5mm FC Stacks 
-(Preferably SpeedyBee F4 or F7 line “full size” stacks)
-Fits 20mm x 20mm Analog VTX
+ - Fits 30.5mm x 30.5mm FC Stacks 
+   * (Preferably SpeedyBee F4 or F7 line “full size” stacks)
+ - Fits 20mm x 20mm Analog VTX
 Built around the SpeedyBee TX800, but most should work.
 Fits 16x16mm motors
 Fits 2207 or larger natively.
