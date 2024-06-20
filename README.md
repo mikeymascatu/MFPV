@@ -31,19 +31,20 @@ STLs will be included with options to model sharing sites:
  - Fits 30.5mm x 30.5mm FC Stacks 
    * (Preferably SpeedyBee F4 or F7 line “full size” stacks)
  - Fits 20mm x 20mm Analog VTX
-Built around the SpeedyBee TX800, but most should work.
-Fits 16x16mm motors
-Fits 2207 or larger natively.
-Could fit smaller motors (2203, 2203.5, 2205) with adapters or changes of the B frame.  
-Fits SMA adapters 
-Hole for RX antenna 
-Fits battery straps 
-(Designed around 4S Li-Ion packs but will fit most small-medium Li-Po packs) 
-     Warnings/Notes/Printing
-FOR US MAKERS:
-This design is VERY LIKELY over the FAA's <249g “no registration” limit so using the FAA's “Remote ID” is likely needed. (For what I'm doing, I don't need a module so I won't have brackets on my page, but it's super easy to make brackets in CAD)
+   * Built around the SpeedyBee TX800, but most should work.
+ - Fits 16x16mm motors
+   * Fits 2207 or larger natively.
+   * Could fit smaller motors (2203, 2203.5, 2205) with adapters or changes of the B frame.  
+ - Fits SMA adapters 
+ - Hole for RX antenna 
+ - Fits battery straps 
+   * (Designed around 4S Li-Ion packs but will fit most small-medium Li-Po packs) 
+## Warnings/Notes/Printing
+ - ### FOR US MAKERS:
+ - This design is VERY LIKELY over the FAA's <249g “no registration” limit so using the FAA's “Remote ID” is likely needed. (For what I'm doing, I don't need a module so I won't have brackets on my page, but it's super easy to make brackets in CAD)
 This design makes a drone roughly ~700g so please check your local UAV guidelines before proceeding 
 It is 3D printed plastic at the end of the day so it won't take that many crashes.
+
 It certainly isn't THAT light so I wouldn't recommend racing or freestyling.
 YOU MUST USE AN ADVANCED FILAMENT FOR THE B FRAME. PLA causes MANY ISSUES WITH FLIGHT. Currently testing ABS-CF but PA-CF or PC may be better options. You can use PLA on the other components though.
 An enclosure is recommended for at least the B and A frame.
