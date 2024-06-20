@@ -1,7 +1,6 @@
 # MFPV (Modular First Person View Drone System)
 ## Modular Open-Source 3D-Printed Frame System for FPV-based (4"-5") drones
-
-
+### Designed for the 2024 Technology Student Association UAV Challenge and meets all physcial and safety requirements
 
 ![image](https://github.com/mikeymascatu/MFPV-delivery/assets/166886630/6c68a1ef-2568-4084-9870-977f66e36d11)
 
@@ -86,6 +85,12 @@ STLs will be on model sharing sites:
 ### If using modular adapter:
  - X2 7-12mm  M3 Screws (mounting MFP modular adapter)
  - X2 6mm M3 Nuts (metal or plastic)
+
+## Included Components:
+
+### Core Frame
+- A Frame (DroneFrameA) = The upper frame
+- B Frame (DroneFrameB) = The lower frame 
 
 ## Assembly:
 *I recommend measuring, cutting, and soldering all wires before hand as soldering next to PLA might not be a good idea. Remove all non-soldered connectors before starting.* 
