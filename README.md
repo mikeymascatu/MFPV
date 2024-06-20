@@ -9,6 +9,8 @@
 ### Additional Info
 STLs will be on model sharing sites:
 
+Printables and MakerWorld Links coming soon!
+
 [OnShape](https://cad.onshape.com/documents/be780221657184ef5af6f876/w/e20a2d3bc301348a674d5dc5/e/4542c18d6307ccf997ffdbc9?renderMode=0&uiState=667372c694107d685f381607)
 
 ## Features and Specs:
@@ -100,35 +102,65 @@ STLs will be on model sharing sites:
 ## Assembly:
 *I recommend measuring, cutting, and soldering all wires before hand as soldering next to plastics might not be a good idea. Remove all non-soldered connectors before starting.* 
 
+**Use the OnShape Link as a refernce to assemble**
+
 ### Standoff Installation
  1. Insert X6 6mm M3 Screws through the sides of the B frame
-    - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/41824df2-cdad-49c6-9479-4471d4c323a3)
- 3. Use 12mm M3 Screws if using the “Blade” landing gear
-     - Build the Landing Gear System using the wiki before installing
- 5. If using the Landing gear, Sandwich the gear bracket like: 
+    - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/785f3c7b-c602-4cbd-be68-b017ad40d562)
+ 2. Use 12mm M3 Screws if using the “Blade” landing gear
+     - Build the Landing Gear System using the Folding Landing System (FLS) wiki before installing
+ 3. If using the Landing gear, Sandwich the gear bracket like: 
      - Screws, Bracket, B frame, and Standoffs
- 6. Catch the end of the screw using the 25mm Standoffs
+ 4. Catch the end of the screw using the 25mm Standoffs
      - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/05808535-7d0e-41a4-b893-54553bd9d2f1)
- 7. Insert X4 6mm M3 Screws through the “smaller square section”
+ 5. Insert X4 6mm M3 Screws through the “smaller square section” (Bottom to Top)
      - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/fb3fbb42-0b28-48e3-aaa0-a01b3f9f30b3)
- 9. Catch the screws using X4 12mm M3 Standoffs
- 10. Install Modular Connector
+ 6. Catch the screws using X4 12mm M3 Standoffs
+ 7. Install Modular Connector (Optional) 
       - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/01982acb-d9ea-4604-aea2-32ab8f33383e)
- 11. Run battery straps through the side slots on the A frame.
+      - Install X2 M3 12mm Screws through the center holes of the B frame. (Top to bottom).
+      - Insert the modular connector and secure with M3 Hex nuts
+ 8. Run battery straps through the side slots on the A frame.
 ### FC/ESC Installation
-Ensure rubber spacers are installed on both ends of the stack 
-Insert X4 30mm M3 Screws through the “Center square holes”
-Catch the screws using the stack. There may be some resistance, this is normal.
-Secure the board using the nuts or 12mm standoffs 
-The screws should be flush with the 
-Install your custom camera brackets on the standoffs
+ 1. Ensure rubber spacers are installed on both ends of the stack 
+ 2. Insert X4 30mm M3 Screws through the “Center square holes” (Bottom to Top)
+    - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/6be4bc16-3098-4a39-afab-bb524ae3ccb6)
+ 3. Catch the screws using the stack. There may be some resistance, this is normal.
+ 4. Secure the board using the nuts or 12mm standoffs 
+     - The screws should be flush with the standoffs
+ 5. Install your custom camera brackets on the standoffs
+     - Don't follow this step if you're using the LandCam Expansion (LCE). Follow the Wiki.
+     - Install your camera at this point if going custom.
 ### Motor Installation
-Align each direction motor with each arm
-Insert X4 10mm screws per motor (16 in total)
-If using the MFPV Guards, Sandwich the guards like so:
-Screws, Guards, B Frame, and Motors
-VTX Antenna
-Between the 2 holes marked “ANT” on the A frame, use the larger hole to attach your VTX antenna
-The threads on the antenna adapter should tap into the plastic with the cable on the opposite side of the text and markings (the side that contacted the build plate during printing)
-Secure the cable by using the nut on the other end using a 8mm hex wrench.
- 
+1. Align each direction motor with each arm
+2. Insert X4 10mm screws per motor (16 in total) (Bottom to Top)
+   - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/652a0be0-3ee4-429f-9aaa-3231b1a2c0a7)
+   - If using the MFPV Guards, Sandwich the guards like so:
+      * Screws, Guards, B Frame, and Motors
+3. Tightly Secure Screws
+### VTX Antenna
+1. Between the 2 holes marked “ANT” on the A frame, use the larger hole to attach your VTX antenna cable
+   - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/9330ed72-a63a-4be9-8d09-1510374b010a)
+2 The threads on the antenna adapter should tap into the plastic with the cable on the opposite side of the text and markings 
+   - (the cable should be perpendicular the side that contacted the build plate during printing)
+3. Secure the cable by using the nut on the other end using a 8mm hex wrench.
+4. Screw on the VTX antenna.
+
+### VTX
+1. Run the battery cables under the VTX area
+   - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/70772937-e08c-4c17-a9ee-dcda683b71b8)
+2. Lay the VTX (heatsink up) on top the 12mm standoffs.
+3. Secure the VTX with 12mm Screws
+4. Connect the VTX antenna cable to the VTX and the VTX cable to the FC
+
+### Recievers
+
+Follow the Wiki for more information
+
+### Final Frame Assembly
+
+
+
+
+
+   
