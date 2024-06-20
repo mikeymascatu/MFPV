@@ -39,16 +39,15 @@ STLs will be included with options to model sharing sites:
  - Hole for RX antenna 
  - Fits battery straps 
    * (Designed around 4S Li-Ion packs but will fit most small-medium Li-Po packs) 
-## Warnings/Notes/Printing
+## Warnings/Notes
 
 ### FOR US MAKERS:
  - This design is ** VERY LIKELY **  over the FAA's <249g “no registration” limit so using the FAA's “Remote ID” is likely needed.
    *  (For what I'm doing, I don't need a module so I won't have brackets on my page, but it's super easy to make brackets in CAD)
  - This design makes a drone roughly ~700g so please check your local UAV guidelines before proceeding 
 
-### ** It is 3D printed plastic at the end of the day so it won't take that many crashes. **
-
-It certainly isn't THAT light so I wouldn't recommend racing or freestyling.
+### It is 3D printed plastic at the end of the day so it won't take that many crashes.
+** It certainly isn't THAT light so I wouldn't recommend racing or freestyling. **
 YOU MUST USE AN ADVANCED FILAMENT FOR THE B FRAME. PLA causes MANY ISSUES WITH FLIGHT. Currently testing ABS-CF but PA-CF or PC may be better options. You can use PLA on the other components though.
 An enclosure is recommended for at least the B and A frame.
 You can also use this model for CNCing Carbon fiber for best results.
@@ -61,6 +60,8 @@ The entire bottoms of frame components completely touches the print plate but US
 It WILL COME OFF the bed if you let it!!
 The screw hole's first layer  may come off the build during the first layer. (Even on PEI). The rest of the frame should just hold the rest of the screw hole  
       Important Note (Betaflight)
+
+
 Using a 3D printed frame may cause vibrations that may interfere with your FC's Gyro. This may lead to take-off without throttle. Lower the lowpass filter in RPM filtering settings to counter this. 
 USE THIS DESIGN AT YOUR OWN RISK. I'M NOT RESPONSIBLE FOR CRASHES OR PROPERTY DAMAGE CAUSED BY THIS DESIGN. 
 IF YOU DON'T BEILEVE IT'LL FLY, THEN DON'T USE THIS DESIGN. 
