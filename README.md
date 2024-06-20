@@ -112,7 +112,7 @@ Printables and MakerWorld Links coming soon!
  3. If using the Landing gear, Sandwich the gear bracket like: 
      - Screws, Bracket, B frame, and Standoffs
  4. Catch the end of the screw using the 25mm Standoffs
-     - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/05808535-7d0e-41a4-b893-54553bd9d2f1)
+     
  5. Insert X4 6mm M3 Screws through the “smaller square section” (Bottom to Top)
      - ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/fb3fbb42-0b28-48e3-aaa0-a01b3f9f30b3)
  6. Catch the screws using X4 12mm M3 Standoffs
@@ -159,6 +159,8 @@ Follow the Wiki for more information
 
 ### Final Frame Assembly
 
+1. Press the A frame on the drone and secure with 6mm screws.
+- ![image](https://github.com/mikeymascatu/MFPV/assets/166886630/05808535-7d0e-41a4-b893-54553bd9d2f1)
 
 
 
