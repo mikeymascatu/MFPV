@@ -43,6 +43,6 @@ Printables and MakerWorld Links coming soon!
  - Hole for RX antenna 
  - Fits battery straps 
    * (Designed around 4S Li-Ion packs but will fit most small-medium Li-Po packs) 
- ## For assembly and more info, check out the newly built ✨wiki✨
+ ## For assembly and more info, check out the newly built ✨[wiki](https://github.com/mikeymascatu/MFPV/wiki)✨
  
  # Read the warnings in the wiki. While not legally binding, building this prototype implies you agree by those warnings.
