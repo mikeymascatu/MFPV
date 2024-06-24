@@ -29,7 +29,8 @@ Printables and MakerWorld Links coming soon!
  - Can be printed on beds the same as or larger than an i3 (at least 220mm x 175mm)
  - No post processing (assuming your printer has no issues)
  - STL and STEP files for printing and design changes.
-    * Use the OnShape public link before using the STEP files. Use the STEP files only if you're on other CAD systems (Fusion, Inventor, ect)
+    * Use the OnShape public link before using the STEP files.
+    * Use the STEP files only if you're on other CAD systems (Fusion, Inventor, ect)
 ## Compatible Parts 
  - Fits 30.5mm x 30.5mm FC Stacks 
    * (Preferably SpeedyBee F4 or F7 line “full size” stacks)
