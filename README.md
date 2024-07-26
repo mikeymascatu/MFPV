@@ -1,4 +1,4 @@
-# MFPV (Modular First Person View Drone System)
+# MFPV (ModularFPV or Modular First Person View Drone System)
 ## Modular Open-Source 3D-Printed Frame System for FPV-based (4"-5") drones
 ### Designed for the 2024 Technology Student Association (TSA) UAV Challenge and Hack Club Arcade. This meets all physcial and safety requirements for TSA.
 
