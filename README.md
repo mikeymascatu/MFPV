@@ -13,6 +13,9 @@ Printables and MakerWorld Links coming soon!
 
 [OnShape](https://cad.onshape.com/documents/be780221657184ef5af6f876/w/e20a2d3bc301348a674d5dc5/e/4542c18d6307ccf997ffdbc9?renderMode=0&uiState=667372c694107d685f381607)
 
+## NOTE (3/17/2025):
+### This revision of MFPV is considered *DEPRECATED*. After years of flight testing, this design has been considered unflyable. Continue at YOUR OWN RISK.
+
 ## Background
 The R&D of this project has been in the works since November 2023. The orginal revision of the MFPV Project was finished in March 2024, using a mix of salvaged FPV parts and new parts to make a frankenstein of a drone. The drone had major diffictlties taking off until it was time to present the prototype at a state engineering confrence. With a new configuration hopefully fixing the take off issues, the reciever happened to short itself, dying. The project was a failure. I shelved the project, figuring out what could be done. Once Hack Hour evolved into Arcade, I was dead set on revising and publishing the project. And this is what came out of that determination.  
 
